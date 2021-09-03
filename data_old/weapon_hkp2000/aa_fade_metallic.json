@@ -1,0 +1,24 @@
+{
+    "name": "P2000",
+    "paintkitIdx": "aa_fade_metallic",
+    "paintkit": "Amber Fade",
+    "fullname": "P2000 | Amber Fade",
+    "rarity": 4,
+    "wear": {
+        "min": "0.000000",
+        "max": "0.400000",
+        "conditions": [
+            "Factory New",
+            "Minimal Wear",
+            "Field-Tested",
+            "Well-Worn"
+        ]
+    },
+    "images": {
+        "Factory New": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJcAJE7dizq42Og_b4P7LSqWdY781lxLHE84it2VftqBVoa2qicNSTIFJoZFDV-lm2we65g5Tov8uaznBguyA8pSGKe9WSySg",
+        "Minimal Wear": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJcAJE7dizq42Og_b4P7LSqWdY781lxLHE84it2VftqBVoa2qicNSTIFJoZFDV-lm2we65g5Tov8uaznBguyA8pSGKe9WSySg",
+        "Field-Tested": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJcAJE7dizq42Og_b4P7LSqWZU7Mxkh6fErN_22VbkqRBrZmn3cIOTewdqZAqE8lm_xO7ngsW_vM6YzndjuSEm-z-DyNwC_Q0C",
+        "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJcAJE7dizq42Og_b4P7LSqWZU7Mxkh6fErN_22VbkqRBrZmn3cIOTewdqZAqE8lm_xO7ngsW_vM6YzndjuSEm-z-DyNwC_Q0C"
+    },
+    "collection": "CSGO_set_dust_2"
+}

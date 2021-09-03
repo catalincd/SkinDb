@@ -1,0 +1,20 @@
+import ItemGrid from './components/ItemGrid';
+import Weapons from './objects/weapons';
+
+
+var keys = Object.keys(Weapons.weapon_ak47);
+  var deagles = [];
+  for(var i=0;i<keys.length;i++){
+    deagles = [...deagles, Weapons.weapon_ak47[keys[i]]];
+  }
+
+  deagles.sort(function(a, b){
+    return (b["rarity"] - a["rarity"]);
+  });
+
+  return (
+    <View style={styles.container}>
+      <ItemGrid items={deagles}/>
+      <StatusBar style="auto" />
+    </View>
+  );

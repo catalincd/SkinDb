@@ -1,0 +1,24 @@
+{
+    "name": "AWP",
+    "paintkitIdx": "am_awp_glory",
+    "paintkit": "Man-o'-war",
+    "fullname": "AWP | Man-o'-war",
+    "rarity": 6,
+    "wear": {
+        "min": "0.100000",
+        "max": "0.200000",
+        "conditions": [
+            "Minimal Wear",
+            "Field-Tested"
+        ]
+    },
+    "images": {
+        "Minimal Wear": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-HnvD8J_WCwjNU6cAhjLzFoYj00ALj-ktkZWHxIoCRelJqZVnZ_QC3yezmhZ-8ot2Xnsiba0rA",
+        "Field-Tested": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-GkvP9JrafwT8BsZ0g2bGQ9N6nilHk_hBuZjiiItTDJFI3aF3R-QS-wO3sjMe5tIOJlyUKLiWWZg"
+    },
+    "hdImages": {
+        "Minimal Wear": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-HnvD8J_WCwjNU6cAhjLzFoYj00ALj-ktkZWHxIoCRelJqZVnZ_QC3yezmhZ-8ot2Xnsiba0rA",
+        "Field-Tested": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7PLfYQJF4NOkjb-GkvP9JrafwT8BsZ0g2bGQ9N6nilHk_hBuZjiiItTDJFI3aF3R-QS-wO3sjMe5tIOJlyUKLiWWZg"
+    },
+    "collection": "CSGO_set_community_6"
+}

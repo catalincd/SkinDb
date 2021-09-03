@@ -2,7 +2,7 @@
   "expo": {
     "name": "SkinDb",
     "slug": "SkinDb",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -17,14 +17,18 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
-    },
-    "android": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.encrypt3d.skindb",
+      "buildNumber": "1.0.0"
+  },
+  "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
-    },
+          "foregroundImage": "./assets/adaptive-icon.png",
+          "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.encrypt3d.skindb",
+      "versionCode": 1
+  },
     "web": {
       "favicon": "./assets/favicon.png"
     }
